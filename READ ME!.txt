@@ -1,0 +1,3 @@
+Cílem hry je prostøednictvím interakcí a informací z nich získaných poskládat heslo k otevøení dveøí
+
+Ovládání: WASD, E = interakce, space = Urychlení dialogu, escape = vyskoèení z dialogu.
